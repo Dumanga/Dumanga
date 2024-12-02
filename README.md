@@ -8,11 +8,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=DumangaDissanayake&label=Profile%20views&color=0d1117&style=for-the-badge" alt="DumangaDissanayake" /> </p>  
 -->
 
-![GitHub Streak](https://streak-stats.demolab.com?user=DumangaDissanayake&theme=github-dark&hide_border=true&card_width=1000)
 
-<!--### GitHub Trophies  
-
-![](https://github-profile-trophy.vercel.app/?username=DumangaDissanayake&theme=darkhub&no-frame=true&no-bg=false&margin-w=4) -->
 
 ### Technologies:
 
